@@ -5,7 +5,7 @@
     "Punchline": "给宝宝写的移速挂",
     "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
     "InternalName": "SpeedRadiusPlugin",
-    "AssemblyVersion": "1.4.3.303",
+    "AssemblyVersion": "1.4.3.304",
     "RepoUrl": "https://github.com/nihil-string/simple-Tool-dist",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -14,8 +14,8 @@
       "utility"
     ],
     "IconUrl": "https://raw.githubusercontent.com/nihil-string/simple-Tool-dist/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/nihil-string/simple-Tool-dist/releases/download/v1.4.3.303/SpeedRadiusPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/nihil-string/simple-Tool-dist/releases/download/v1.4.3.303/SpeedRadiusPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/nihil-string/simple-Tool-dist/releases/download/v1.4.3.303/SpeedRadiusPlugin.zip"
+    "DownloadLinkInstall": "https://github.com/nihil-string/simple-Tool-dist/releases/download/v1.4.3.304/SpeedRadiusPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/nihil-string/simple-Tool-dist/releases/download/v1.4.3.304/SpeedRadiusPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/nihil-string/simple-Tool-dist/releases/download/v1.4.3.304/SpeedRadiusPlugin.zip"
   }
 ]
